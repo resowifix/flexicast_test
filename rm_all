@@ -1,0 +1,7 @@
+#!/bin/sh
+
+rm -v *.qlog
+rm -v *.bin
+rm -v *.sqlog
+rm -v */*.qlog
+rm -v */*.qlog

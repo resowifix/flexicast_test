@@ -1,0 +1,11 @@
+tmp*
+cli_d
+srv_d
+*.pcapng
+log*
+quiche_lch.sh
+picoquicdemo
+picoquic_fc
+cert_quiche
+*.bin
+__pycache__
